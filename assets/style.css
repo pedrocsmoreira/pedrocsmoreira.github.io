@@ -1,5 +1,6 @@
 .div-height{
     height: 65vh;
+    overflow: hidden;
 }
 
 .div-big{
